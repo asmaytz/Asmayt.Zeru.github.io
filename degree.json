@@ -1,0 +1,15 @@
+[
+    { 
+    "School" : "University of Louisville, Louisville,KY",
+    "Program/Major": "Computer Information System / Information System",
+    "Type": "BABS",
+    "Year conferred": 2021
+},
+{
+    "School" : "Boston University",
+    "Program/Major": "Software Development",
+    "Type": "MS",
+    "Year conferred": 2023
+}
+]
+
