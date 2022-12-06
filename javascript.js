@@ -13,13 +13,13 @@ function fetchData() {
                 .then((degree) => {
                         console.log(degree);
                 })
-                //handling error
-                .catch((err) => {
-                        console.log(err);
+                
+                .catch((error) => {
+                        console.log(error);
                 })
 }
 
-//triggering event
+//trigger event
 document.getElementById('event-occur').addEventListener('click', fetchData);
 
 </script>
