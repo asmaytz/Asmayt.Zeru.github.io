@@ -49,7 +49,8 @@ padding: 6px 16px;
 color: #fff;
 border-radius: 20px;
 }
-header ul li a:hover
+header ul li a:hover,
+header ul li a:active
 {
     background: #fff;
     columns: #32165e;
